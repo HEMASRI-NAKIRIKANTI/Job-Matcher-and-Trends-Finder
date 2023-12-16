@@ -1,0 +1,55 @@
+Objective:
+
+Accomplished and dedicated Enterprise Architect Infrastructure with over 12 years of experience, poised to contribute to Southern Glazer's Wine & Spirits' cutting-edge technology initiatives. Seeking a challenging role that allows me to leverage my expertise in enterprise infrastructure, cloud technologies, and strategic alignment.
+
+---
+
+Professional Experience:
+
+Enterprise Architect Infrastructure | [Previous Employer], [Location] | [Dates of Employment]
+
+- Developed and executed enterprise technology infrastructure strategies, encompassing data center, cloud, network, security, and operations.
+- Led the design of resilient infrastructure solutions, ensuring business continuity in a dynamic environment.
+- Evaluated and implemented state-of-the-art infrastructure technologies, managed RFI/RFP processes, and orchestrated successful rollout plans.
+- Provided expert guidance to infrastructure teams, facilitating the adoption of new technologies aligned with organizational goals.
+- Conducted comprehensive reviews of application architectures, ensuring alignment with enterprise infrastructure requirements.
+- Stayed at the forefront of digital application demands, incorporating DevSecOps, CI/CD, and scalable, resilient architecture patterns.
+- Collaborated with Azure and AWS cloud services to deliver efficient and scalable solutions.
+
+---
+
+Key Achievements:
+
+- Successfully formulated and implemented a holistic enterprise infrastructure strategy, resulting in enhanced system resilience and operational efficiency.
+- Pioneered the adoption of CloudOps and FinOps practices, optimizing cloud expenditure and maximizing resource utilization.
+- Provided strategic guidance on infrastructure requirements to application delivery teams, ensuring seamless integration with enterprise architecture standards.
+
+---
+
+Education:
+Bachelor's Degree in [Your Field of Study] | [University], [Year of Graduation]
+
+---
+
+Skills:
+
+- Technology Thought Leadership
+- Enterprise Infrastructure Strategy
+- Cloud Technologies (Azure, AWS)
+- Resilient and Business Continuity Architecture
+- Application Architecture Review
+- Strategic Planning and Alignment
+- Relationship Building and Executive Influence
+- Excellent Verbal/Written Communication
+- Analytical and Strategic Thinking
+- Agile Delivery Values
+- Adherence to Agile Delivery Values: Openness, Commitment, Respect, Courage, Focus.
+- Commitment to continuous learning and staying current with emerging technologies.
+- Deep expertise in developing enterprise infrastructure strategy and roadmap covering data center, cloud, network, security, and operations. Architecting infrastructure for resiliency and business continuity  
+- 10+ years' experience in architecting enterprise technology infrastructure, formulating data center and cloud strategies. -  ---- basic knowledge of CloudOps and FinOps. 
+- Evaluate infrastructure technologies, manage RFI/RFP process and define rollout plan  
+- Guide infrastructure teams on new technologies  
+- Deep understanding of modern digital application demands including DevSecOps, CI/CD, elastic scalability, load balancing and       highly available resilient architecture patterns  
+- Experienced in reviewing application architectures  
+- Guided application delivery teams on infrastructure requirements, capacity planning and operations  
+   Experience with Azure or AWS cloud 
